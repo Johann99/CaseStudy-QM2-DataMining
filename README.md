@@ -1,6 +1,7 @@
 # Fraud-Detection-on-Selfcheckout-Registers
 
-Kontext
+Kontext:
+
 Fallstudie zur Vorlesung Data Mining Betrugserkennung an Selbstzahlerkassen im Einzelhandel
 Prof. Dr. Michael Bücker, Lutz Dapper 05.11.2020
 Die Supermarktkette “Frischwerk” sieht sich steigendem Druck durch die expandierende Konkurrenz aus- gesetzt. Zur Senkung der Personalkosten bei gleichzeitiger Erhöhung der Servicequalität setzt Frischwerk seit geraumer Zeit auf Self-Checkout-Stationen. An diesen Stationen können Kundinnen und Kunden ihre Produkte selbst scannen und direkt bezahlen. Das Angebot der Self-Checkout-Stationen hilft, lange Schlangen zu vermeiden und beschleunigt den Zahlungsprozess für einzelne Personen. Allerdings bietet es auch die Möglichkeit beim Scannen der Produkte zu betrügen.
