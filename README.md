@@ -1,4 +1,4 @@
-# Fraud-Detection-on-Selfcheckout-Registers
+# Fraud Detection on Selfcheckout Registers
 
 Kontext:
 
